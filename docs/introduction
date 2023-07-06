@@ -1,0 +1,53 @@
+url: "https:/marketoptiontend.com/"
+type: "WebPage"
+mainEntity: [
+{
+    url: ""
+    type: "Organization"
+    @id: ["https://marketoptiontend.com"]
+    foundingDate: ["2020"]
+    image: [
+    {
+        url: ""
+        type: "Indexable"
+        @id: ["https://marketoptiontend.com"]
+    }]
+    legalName: ["marketoptiontend LLC"]
+    logo: [
+    {
+        url: ""
+        type: "ImageObject"
+        @id: ["https://marketoptiontend.com"]
+        caption: ["marketoptiontend- Forex Trading MT5 Platform"]
+        url: ["https://marketoptiontend.com/img/logo.svg"]
+    }]
+    name: ["marketoptiontend – Forex Trading Mt4 Platform"]
+    sameAs: ["https://wikidata.org/wiki/Q108394368", "https://facebook.com/Marketoptiontend", "https://twitter.com/marketoptiontend"
+    url: ["https://marketoptiontend.com"]
+}, 
+{
+    url: ""
+    type: "Organization"
+    @id: ["https://www.marketoptiontend.com"]
+    foundingDate: ["2020"]
+    image: [
+    {
+        url: ""
+        type: "Indexable"
+        @id: ["https://www.marketoptiontend.com "]
+    }]
+    legalName: ["marketoptiontend LLC"]
+    logo: [
+    {
+        url: ""
+        type: "ImageObject"
+        @id: ["https://www.marketoptiontend.com"]
+        caption: ["marketoptiontend - Forex Trading MT4 Platform"]
+        url: ["https://www.marketoptiontend.com/img/logo.svg"]
+    }]
+    name: ["marketoptiontend – Forex Trading Mt4 Platform"]
+    sameAs: ["https://www.wikidata.org/wiki/Q108394368", "", "https://twitter.com/marketoptiontend", "}
+    url: ["https://www.marketoptiontend.com"]
+}]
+name: ["marketoptiontend: Online Forex Trading Broker and Platform"]
+metadata:
